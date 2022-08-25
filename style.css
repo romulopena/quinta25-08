@@ -20,6 +20,12 @@ h3 {text-align: center;
 .texto-um {background-color: #00aa00
 }
 
+ul{
+    display: inline;
+    vertical-align: center;
+    width: 40%;
+    margin: 0 10 0 0;
+}
 .texto-dois {background-color: #88ee00
 }
 .texto-dois { font-size:30px
