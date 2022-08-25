@@ -1,0 +1,31 @@
+h2 {color: blue;
+}
+
+body {background-color: #00aa00
+}
+
+h3 { border-width:4px;
+	border-style: solid;
+	border-color: #ff0000;
+	padding: 4px;
+	margin: 100px;
+  }
+
+h3 {text-align: center;
+}
+
+#imagem-principal {width: 70%;
+}
+
+.texto-um {background-color: #00aa00
+}
+
+.texto-dois {background-color: #88ee00
+}
+.texto-dois { font-size:30px
+}
+
+.romulo {background-color: green;
+}
+.romulo {font-size: 100%
+}
