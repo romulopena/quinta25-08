@@ -1,7 +1,9 @@
 h1{
     color: yellow;
 
-}h2 {color: rgb(158, 158, 218);
+}h2 {
+    color: rgb(158, 158, 218);
+    font-size: 25px;
 }
 
 body {
