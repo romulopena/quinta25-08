@@ -1,7 +1,8 @@
 h2 {color: rgb(158, 158, 218);
 }
 
-body {background-color: #aa4d00
+body {
+    background: #aa4d00;
 }
 
 h3 { border-width:4px;
@@ -15,11 +16,11 @@ h3 {text-align: center;
 }
 
 #imagem-principal {
-     width: 25%;
+     width: 35%;
 }
 
 .texto-um {
-    background-color: yellow; 
+    background: yellow; 
 }
 
 ul{
@@ -27,5 +28,9 @@ ul{
     vertical-align: center;
     width: 40%;
     margin: 30px 30px 30px 30px;
+    font-size: 50px;
+}
+
+ul li{
     color: white;
 }
