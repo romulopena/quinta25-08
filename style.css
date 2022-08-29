@@ -22,7 +22,7 @@ h3 {text-align: center;
 }
 
 #imagem-principal {
-     width: 55%;
+     width: 45%;
 }
 
 .texto-um {
@@ -38,5 +38,6 @@ ul{
 }
 
 ul li{
+    background: whitesmoke;
     color: blueviolet;
 }
