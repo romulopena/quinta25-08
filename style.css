@@ -7,7 +7,7 @@ h2 {
     font-size: 25px;
 }
 
-body {
+header {
     background: #aa4d00;
 }
 
@@ -33,11 +33,15 @@ ul{
     display: inline-block;
     vertical-align: center;
     width: 40%;
-    margin: 30px 30px 30px 30px;
-    font-size: 50px;
+    margin: 15px;
+    font-size: 35px;
 }
 
 ul li{
     background: whitesmoke;
     color: blueviolet;
+}
+
+footer{
+    background: rgba(107, 6, 6, 0.863);
 }
